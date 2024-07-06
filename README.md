@@ -17,4 +17,4 @@ Este projeto visa prever as notas do IMDb para filmes utilizando um modelo de Ma
 
 bash
 git clone  https://github.com/LuksPc1/LH_CD_LUCASPAULINO 
-cd seu-repositorio
+cd LH_CD_LUCASPAULINO 
