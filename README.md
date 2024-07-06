@@ -15,6 +15,6 @@ Este projeto visa prever as notas do IMDb para filmes utilizando um modelo de Ma
 
 1. Clone o repositório para sua máquina local:
 
-``bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+bash
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/LuksPc1/LH_CD_LUCASPAULINO )
 cd seu-repositorio
